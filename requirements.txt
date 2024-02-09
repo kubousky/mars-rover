@@ -1,0 +1,3 @@
+pytest==8.0.0  # https://github.com/pytest-dev/pytest
+flake8==7.0.0  # https://github.com/pycqa/flake8
+black==24.1.1  # https://github.com/psf/black

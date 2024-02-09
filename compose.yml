@@ -1,0 +1,7 @@
+services:
+  kata:
+    build: .
+    image: kata-setup-python
+    container_name: kata
+    volumes:
+      - ./src:/src:z
